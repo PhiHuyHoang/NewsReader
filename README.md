@@ -1,1 +1,1 @@
-"# NewsReader" 
+# NewsReader
