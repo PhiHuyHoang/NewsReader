@@ -1,0 +1,7 @@
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\bin\Debug\ThreadandXDoc.exe.config
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\bin\Debug\ThreadandXDoc.exe
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\bin\Debug\ThreadandXDoc.pdb
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\obj\Debug\ThreadandXDoc.csprojAssemblyReference.cache
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\obj\Debug\ThreadandXDoc.csproj.CoreCompileInputs.cache
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\obj\Debug\ThreadandXDoc.exe
+C:\Users\i352015\Development2\Programming3\Process\ThreadandXDoc\obj\Debug\ThreadandXDoc.pdb
